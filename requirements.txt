@@ -1,0 +1,12 @@
+djangorestframework
+pyrankvote
+
+Django
+gunicorn
+psycopg2-binary
+PyYAML
+docker-py
+dockerpty
+docopt
+requests
+six
